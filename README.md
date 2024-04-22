@@ -38,11 +38,13 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 | Large Language Models and Prompt Engineering |  website | 🟩⬜⬜ | 2023 |  free | [ Prompt Engineering Guide]( https://promptingguide.ai) by  DAIR.AI |
 | Computer Vision |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Computer Vision in Practice](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) by  Piotr Skalski x Roboflow |
 | Natural Language Processing |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [ CS685: Advanced Natural Language Processing](https://youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) by  University of Massachusetts |
+| Linear Algebra |  YouTube playlist | 🟩⬜⬜ | 2022 |  free | [ Linear Algebra for Data Science]( https://www.youtube.com/playlist?list=PLB3yPBd26tWyDNoUpEGVsyI-sygPLqYa1) by  Shaina Race |
 | Machine Learning |  YouTube playlist | 🟩🟩⬜ | 2022 |  free | [ CS229: Machine Learning]( https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) by  Stanford University |
 | MLOps |  YouTube playlist | 🟩🟩⬜ | 2022 |  free | [ Machine Learning Engineering for Production](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) by  Andrew Y. Ng |
 | Multimodal Machine Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [11-777: Multimodal Machine Learning](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) by  Carnegie Mellon University |
 | Deep Multi-Task and Meta Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [CS330 Deep Multi-Task and Meta Learning](https://youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) by  Stanford University |
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2022 |  free | [ Practical Deep Learning for Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) by  fast.ai |
+| Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2021 |  free | [ Neural Networks from Scratch in Python]( https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) by  Sentdex |
 | Natural Language Processing | YouTube playlist | 🟩🟩⬜ | 2021 |  free | [ CS224U: Natural Language Understanding]( https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ) by  Stanford University |
 | Transformers |  YouTube playlist | 🟩🟩🟩 | 2021 |  free | [CS25: Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) by  Stanford University |
 | Deep Learning |  YouTube playlist | 🟩🟩⬜ | 2021 |  free | [NYU-DLSP21: NYU Deep Learning Spring](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) by  New York University |
